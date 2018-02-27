@@ -1,0 +1,15 @@
+{
+    "app_id" : "0760f6f6-c7eb-403f-b2cd-50074ae7075f",
+    "app_name" : "response-app",
+    "app_url" : "https://response-app.cfapps.cpblr.aws.sapcloud.io",
+    "metric" : "responsetime",
+    "collector_url": "https://metricscollector.cfapps.cpblr.aws.sapcloud.io"
+}
+
+{
+    "app_id" : "0b811620-3d50-4644-8829-83f216921fb0",
+    "app_name" : "response-app-2",
+    "app_url" : "https://response-app-2.cfapps.cpblr.aws.sapcloud.io",
+    "metric" : "responsetime",
+    "collector_url": "https://metricscollector.cfapps.cpblr.aws.sapcloud.io"
+}

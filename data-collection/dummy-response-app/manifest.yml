@@ -1,0 +1,7 @@
+---
+applications:
+- name: response-app-2
+  memory: 500MB
+  instances: 1
+  disk: 500MB
+  buildpack: nodejs_buildpack
